@@ -1,0 +1,45 @@
+.panel-heading:after {
+	display: block;
+	content: "";
+	clear: both;
+}
+
+#post-userinfo {
+	font-size: 24px;
+	float: left;
+}
+
+#post-userinfo img {
+	width: 48px;
+	height: 48px;
+	display: inline;
+	vertical-align: bottom;
+}
+
+#post-date {
+	font-size: 16px;
+	float: right;
+}
+
+#post-mod {
+	font-size: 16px;
+	float: right;
+}
+
+#post-body {
+	text-align: left;
+}
+
+.member {
+	display: block;
+}
+
+#members-imgnick #desc {
+	display: inline;
+	vertical-align: top;
+}
+
+#members-imgnick img {
+	display: inline;
+	width: 96px;
+}
